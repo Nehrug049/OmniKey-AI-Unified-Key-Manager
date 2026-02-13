@@ -1,6 +1,6 @@
 {
   "name": "omnikey-ai-unified-key-manager",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "A self-hosted LLM proxy and failover gateway supporting OpenAI & Gemini compatible endpoints. Routes requests dynamically across 12+ LLM platforms with automatic fallback, key scheduling, rate-limit tracking and encrypted credential storage.",
   "main": "src/index.ts",
   "scripts": {
